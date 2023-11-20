@@ -3,13 +3,13 @@
     "ID": "ada85979-4e1c-4456-99bb-74accb07fde7",
     "title": "Articles",
     "slug": "_index",
-    "content": "Articles are paginated with only three posts here for example. You can set the number of entries to show on this page with the \"pagination\" setting in the config file.",
+    "content": "2. Danh sách lao động đăng ký tuyển chọn\n\n| STT | Họ tên          | Ngày sinh  | Quê quán   |\n|-----|-----------------|------------|------------|\n| 1   | NGUYỄN VĂN DỤNG | 3/5/1990   | Hà Tây     |\n| 2   | NGUYỄN ANH NGỌ  | 19/9/1988  | Vĩnh Phúc  |\n| 3   | TRƯƠNG VĂN ĐỨC  | 25/06/2004 | Quảng Bình |\n| 4   | NGUYỄN VĂN HUY  | 22/08/1987 | Thanh Hóa  |\n| 5   | THÈN VĂN HƯỞNG  | 25/12/2000 | Lào Cai    |\n| 6   | BÙI MẠNH HÙNG   | 27/07/1987 | Thái Bình  |",
     "description": "",
     "tags": [],
     "featuredImage": "",
     "date": "2022-06-29 12:00",
     "createdAt": 1656503615723,
-    "updatedAt": 1656503630531
+    "updatedAt": 1700451054269
   },
   {
     "ID": "e949d536-75cd-44db-8a1f-f09ac3aafeab",
